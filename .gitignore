@@ -1,0 +1,15 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor & Scratch Files
+.vscode/
+.idea/
+*.swp
+*~
+*.log
+.system_generated/
+scratch/
